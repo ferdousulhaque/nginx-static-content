@@ -1,0 +1,29 @@
+[
+    {
+        "id": "OFF16119",
+        "name": "29tk-49p/min-3d_Digital",
+        "description": "29tk-49p/min-3d_Digital",
+        "rechargeAmount": 29,
+        "voiceRate": "49p/min",
+        "validity": 3,
+        "validityType": "DAY",
+        "transactionId": "6104590193169840893"
+    },
+    {
+        "id": "OFF16113",
+        "name": "698tk-1000min-40gb+10gb_bonus-30d_Digital",
+        "description": "698tk-1000min-40gb+10gb_bonus-30d_Digital",
+        "rechargeAmount": 698,
+        "voiceMin": "1000",
+        "dataProduct": "40",
+        "dataVolumeType": "GB",
+        "validity": 30,
+        "validityType": "DAY",
+        "transactionId": "6104590193169840893",
+        "extra": [{
+            "product": "bonus",
+            "productVolume": "10",
+            "productType": "GB"
+        }]
+    }
+]
